@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rootElement>
+<tracks rows="10000" startRow="0" endRow="10000" rowsPerBeat="8"
+beatsPerMin="125">
+	<track name="noise size" folded="0" muteKeyCount="0"
+color="ffb27474">
+		<key row="0" value="1.000000" interpolation="1" />
+		<key row="247" value="2.000000" interpolation="1" />
+		<key row="248" value="1.000000" interpolation="0" />
+		<key row="259" value="2.000000" interpolation="0" />
+		<key row="321" value="3.000000" interpolation="0" />
+		<key row="337" value="3.000000" interpolation="0" />
+		<key row="353" value="1.500000" interpolation="0" />
+		<key row="369" value="1.500000" interpolation="0" />
+		<key row="385" value="4.000000" interpolation="1" />
+		<key row="413" value="2.000000" interpolation="0" />
+		<key row="449" value="4.000000" interpolation="1" />
+		<key row="477" value="2.000000" interpolation="0" />
+	</track>
+	<track name="noise speed" folded="0" muteKeyCount="0"
+color="ffb28050">
+		<key row="0" value="1.000000" interpolation="0" />
+		<key row="248" value="2.000000" interpolation="0" />
+		<key row="259" value="0.500000" interpolation="0" />
+		<key row="321" value="1.500000" interpolation="0" />
+		<key row="337" value="2.000000" interpolation="0" />
+		<key row="353" value="2.000000" interpolation="0" />
+		<key row="369" value="2.000000" interpolation="0" />
+		<key row="385" value="1.000000" interpolation="0" />
+		<key row="449" value="1.000000" interpolation="0" />
+	</track>
+	<track name="rotation" folded="0" muteKeyCount="0"
+color="ffa9b250">
+		<key row="0" value="0.000000" interpolation="2" />
+		<key row="119" value="0.000000" interpolation="2" />
+		<key row="247" value="0.500000" interpolation="0" />
+		<key row="259" value="0.500000" interpolation="0" />
+		<key row="321" value="0.000000" interpolation="0" />
+		<key row="337" value="0.000000" interpolation="0" />
+		<key row="353" value="0.500000" interpolation="0" />
+		<key row="369" value="0.500000" interpolation="0" />
+		<key row="385" value="0.000000" interpolation="1" />
+		<key row="389" value="4.000000" interpolation="1" />
+		<key row="391" value="5.200000" interpolation="1" />
+		<key row="393" value="6.000000" interpolation="1" />
+		<key row="395" value="6.600000" interpolation="1" />
+		<key row="397" value="7.000000" interpolation="1" />
+		<key row="399" value="7.300000" interpolation="1" />
+		<key row="401" value="7.400000" interpolation="1" />
+		<key row="408" value="7.780001" interpolation="1" />
+		<key row="409" value="7.870001" interpolation="1" />
+		<key row="410" value="7.930000" interpolation="1" />
+		<key row="411" value="7.970000" interpolation="1" />
+		<key row="412" value="7.990000" interpolation="1" />
+		<key row="413" value="8.000000" interpolation="0" />
+		<key row="449" value="0.000000" interpolation="1" />
+		<key row="453" value="4.000000" interpolation="1" />
+		<key row="455" value="5.200000" interpolation="1" />
+		<key row="457" value="6.000000" interpolation="1" />
+		<key row="459" value="6.600000" interpolation="1" />
+		<key row="461" value="7.000000" interpolation="1" />
+		<key row="463" value="7.300000" interpolation="1" />
+		<key row="465" value="7.400000" interpolation="1" />
+		<key row="472" value="7.780001" interpolation="1" />
+		<key row="473" value="7.870001" interpolation="1" />
+		<key row="474" value="7.930000" interpolation="1" />
+		<key row="475" value="7.970000" interpolation="1" />
+		<key row="476" value="7.990000" interpolation="1" />
+		<key row="477" value="8.000000" interpolation="0" />
+	</track>
+	<track name="zoom" folded="0" muteKeyCount="0" color="ff60b250">
+		<key row="0" value="0.000000" interpolation="2" />
+		<key row="63" value="0.000000" interpolation="2" />
+		<key row="247" value="1.000000" interpolation="0" />
+		<key row="248" value="2.500000" interpolation="0" />
+		<key row="259" value="0.500000" interpolation="0" />
+		<key row="321" value="1.500000" interpolation="0" />
+		<key row="337" value="0.500000" interpolation="0" />
+		<key row="353" value="2.000000" interpolation="0" />
+		<key row="369" value="2.000000" interpolation="0" />
+		<key row="380" value="0.500000" interpolation="2" />
+		<key row="384" value="-0.200000" interpolation="0" />
+		<key row="385" value="4.000000" interpolation="1" />
+		<key row="389" value="3.110000" interpolation="1" />
+		<key row="393" value="2.330000" interpolation="1" />
+		<key row="397" value="1.670000" interpolation="1" />
+		<key row="401" value="1.110000" interpolation="1" />
+		<key row="405" value="0.670000" interpolation="1" />
+		<key row="409" value="0.330000" interpolation="1" />
+		<key row="413" value="0.110000" interpolation="1" />
+		<key row="414" value="0.060000" interpolation="1" />
+		<key row="415" value="0.030000" interpolation="1" />
+		<key row="416" value="0.010000" interpolation="1" />
+		<key row="417" value="0.000000" interpolation="0" />
+		<key row="444" value="1.500000" interpolation="2" />
+		<key row="448" value="0.800000" interpolation="0" />
+		<key row="449" value="4.000000" interpolation="1" />
+		<key row="453" value="3.110000" interpolation="1" />
+		<key row="457" value="2.330000" interpolation="1" />
+		<key row="461" value="1.670000" interpolation="1" />
+		<key row="465" value="1.110000" interpolation="1" />
+		<key row="469" value="0.670000" interpolation="1" />
+		<key row="473" value="0.330000" interpolation="1" />
+		<key row="477" value="0.110000" interpolation="1" />
+		<key row="478" value="0.060000" interpolation="1" />
+		<key row="479" value="0.030000" interpolation="1" />
+		<key row="480" value="0.010000" interpolation="1" />
+		<key row="481" value="0.000000" interpolation="1" />
+	</track>
+	<track name="noise weight" folded="0" muteKeyCount="0"
+color="ff4fb292">
+		<key row="0" value="1.000000" interpolation="0" />
+		<key row="247" value="2.000000" interpolation="0" />
+		<key row="248" value="2.000000" interpolation="0" />
+		<key row="259" value="2.000000" interpolation="0" />
+		<key row="321" value="2.000000" interpolation="2" />
+		<key row="337" value="2.000000" interpolation="2" />
+		<key row="353" value="1.000000" interpolation="2" />
+		<key row="369" value="2.000000" interpolation="2" />
+		<key row="384" value="3.000000" interpolation="0" />
+		<key row="385" value="3.000000" interpolation="1" />
+		<key row="389" value="0.000000" interpolation="1" />
+		<key row="413" value="1.000000" interpolation="0" />
+		<key row="448" value="3.000000" interpolation="0" />
+		<key row="449" value="3.000000" interpolation="1" />
+		<key row="453" value="0.000000" interpolation="1" />
+		<key row="477" value="1.000000" interpolation="0" />
+		<key row="513" value="1.500000" interpolation="0" />
+	</track>
+	<track name="noise bias" folded="0" muteKeyCount="0"
+color="ff4f71b2">
+		<key row="0" value="0.000000" interpolation="0" />
+		<key row="247" value="0.100000" interpolation="0" />
+		<key row="248" value="-0.500000" interpolation="0" />
+		<key row="259" value="-0.400000" interpolation="1" />
+		<key row="320" value="-0.250000" interpolation="0" />
+		<key row="321" value="0.000000" interpolation="0" />
+		<key row="337" value="0.000000" interpolation="0" />
+		<key row="353" value="-0.100000" interpolation="0" />
+		<key row="369" value="-0.100000" interpolation="0" />
+		<key row="417" value="-0.100000" interpolation="1" />
+		<key row="443" value="-0.400000" interpolation="0" />
+		<key row="444" value="-0.100000" interpolation="0" />
+		<key row="481" value="-0.100000" interpolation="1" />
+		<key row="507" value="-0.250000" interpolation="0" />
+		<key row="510" value="-0.250000" interpolation="2" />
+		<key row="513" value="0.400000" interpolation="0" />
+	</track>
+</tracks>
+	</rootElement>

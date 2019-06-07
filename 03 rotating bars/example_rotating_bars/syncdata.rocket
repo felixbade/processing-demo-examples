@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rootElement>
+<tracks rows="10000" startRow="0" endRow="10000" rowsPerBeat="8"
+beatsPerMin="125">
+	<track name="rotation" folded="0" muteKeyCount="0"
+color="ffb27474">
+		<key row="0" value="0.000000" interpolation="2" />
+		<key row="15" value="1.000000" interpolation="2" />
+		<key row="31" value="0.000000" interpolation="2" />
+		<key row="47" value="1.000000" interpolation="2" />
+		<key row="63" value="0.000000" interpolation="2" />
+		<key row="79" value="1.000000" interpolation="2" />
+		<key row="95" value="0.000000" interpolation="2" />
+		<key row="111" value="1.000000" interpolation="2" />
+		<key row="127" value="0.000000" interpolation="2" />
+		<key row="143" value="1.000000" interpolation="2" />
+		<key row="159" value="0.000000" interpolation="2" />
+		<key row="175" value="1.000000" interpolation="2" />
+		<key row="191" value="0.000000" interpolation="2" />
+		<key row="207" value="1.000000" interpolation="2" />
+		<key row="223" value="0.000000" interpolation="2" />
+		<key row="239" value="1.000000" interpolation="2" />
+		<key row="244" value="0.375000" interpolation="0" />
+		<key row="245" value="1.050000" interpolation="0" />
+		<key row="247" value="1.400000" interpolation="0" />
+		<key row="249" value="0.390000" interpolation="0" />
+		<key row="251" value="0.780000" interpolation="0" />
+		<key row="253" value="0.160000" interpolation="2" />
+		<key row="255" value="0.000000" interpolation="2" />
+		<key row="271" value="1.000000" interpolation="2" />
+		<key row="287" value="0.000000" interpolation="2" />
+		<key row="303" value="1.000000" interpolation="0" />
+	</track>
+</tracks>
+	</rootElement>
